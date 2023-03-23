@@ -1,5 +1,5 @@
 {
-    "name": "cornford/googlmapper",
+    "name": "webcoms/googlmapper",
     "description": "An easy way to integrate Google Maps with Laravel.",
     "keywords": ["laravel", "google", "maps", "mapping", "streetview", "map"],
     "license": "MIT",
